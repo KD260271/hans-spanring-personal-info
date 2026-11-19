@@ -1,0 +1,14 @@
+On branch main
+Your branch and 'origin/main' have diverged,
+and have 1 and 1 different commits each, respectively.
+  (use "git pull" if you want to integrate the remote branch with yours)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	status1.txt
+	status2.txt
+	status3.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+Index.html is no longer in the staging area, only the statusx.txt's remain as untracked.

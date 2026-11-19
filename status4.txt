@@ -1,0 +1,13 @@
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	status1.txt
+	status2.txt
+	status3.txt
+	status4.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+Nach git push sind die lokalen commits im branch und up to date gesetzt. Arbeitsverzeichnis und staging area sind leer, nur noch die statusx.txt verbleiben als untracked.
